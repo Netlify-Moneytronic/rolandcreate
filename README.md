@@ -16,7 +16,7 @@ Cloned the existig contentful starter project to my local machine, cd into that 
 **Adding Tags**
 
 
-Adding a tag like data-sb-object-id={props.id} to a <div> is an example of how you would annotate an element so it can be populated and recognized by tools like Netlify Create (Visual Editor) when using Contentful as a content source
+Adding a tag like data-sb-object-id={props.id} is an example of how you would annotate an element so it can be populated and recognized by tools like Netlify Create (Visual Editor) when using Contentful as a content source
 The data-sb-object-id attribute should be set to the unique ID of the Contentful entry you want to associate with that element. In Contentful 
 
 **Developer WorkFlow**

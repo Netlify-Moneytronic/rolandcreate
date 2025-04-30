@@ -1,5 +1,8 @@
 **What I did**
-TLDR Cloned the existig contentful starter project to my local machine, cd into that folder and ran npm install added my Contentful details and ran the two servers locally
+
+**TLDR **
+
+Cloned the existig contentful starter project to my local machine, cd into that folder and ran npm install added my Contentful details and ran the two servers locally
 ￼
 
 1.	git clone https://github.com/netlify-templates/nextjs-contentful-starter.git

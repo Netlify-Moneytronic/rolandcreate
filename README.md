@@ -23,12 +23,12 @@ The data-sb-object-id attribute should be set to the unique ID of the Contentful
 
 5.	For the developer workflow i ran 
 
+npm run import
+To copy the data from the repo to my Contentful Space
+
 
 npm run dev 
 which runs the site locally 
-
-
-and I also ran 
 
 
 npm run stackbit

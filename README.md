@@ -41,9 +41,10 @@ Repeatable demo is now avaiable
 
 https://github.com/Netlify-Moneytronic/rolandcreate
 
-and the site is available on the internet at this url
+and the site is available 
 
-euphonious-bublanina-23a703.netlify.app
+[Visit the live site](https://euphonious-bublanina-23a703.netlify.app)
+
 
 
 

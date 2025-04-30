@@ -1,7 +1,7 @@
-**What I did**
+**Documentation**
 
-**TLDR **
-
+****TLDR **
+**
 Cloned the existig contentful starter project to my local machine, cd into that folder and ran npm install added my Contentful details and ran the two servers locally
 ￼
 

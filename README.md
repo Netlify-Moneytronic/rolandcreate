@@ -13,20 +13,31 @@ Cloned the existig contentful starter project to my local machine, cd into that 
 
 4.	Next i added the contentful api tokens to the env file and made sure the added the stackbit configuration to the divs that i wanted to be editable with contentful.
 
+**Adding Tags**
+
+
 Adding a tag like data-sb-object-id={props.id} to a <div> is an example of how you would annotate an element so it can be populated and recognized by tools like Netlify Create (Visual Editor) when using Contentful as a content source
 The data-sb-object-id attribute should be set to the unique ID of the Contentful entry you want to associate with that element. In Contentful 
 
+**Developer WorkFlow**
+
 5.	For the developer workflow i ran 
+
+
 npm run dev 
 which runs the site locally 
+
+
 and I also ran 
+
+
 npm run stackbit
 which runs the Stackbit netlify create locally as well in another server
 
 Note:-
-The cloud work flow is what the marketeers would use but that appears not to be working at the moment.
+The cloudwork flow is what the marketeers would use but that appears not to be working at the moment.
 
-Repeatable demo is now 
+Repeatable demo is now avaiable
 
 https://github.com/Netlify-Moneytronic/rolandcreate
 

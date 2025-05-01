@@ -9,7 +9,7 @@ Cloned the existig contentful starter project to my local machine, cd into that 
 
 2.	cd into that folder 
 
-3.	npm install
+3.	npm install to download the all the libraries used as defined in package.json
 
 4.	Next i added the contentful api tokens to the env file and made sure the added the stackbit configuration to the divs that i wanted to be editable with contentful.
 
@@ -37,11 +37,11 @@ which runs the Stackbit netlify create locally as well in another server
 Note:-
 The cloudwork flow is what the marketeers would use but that appears not to be working at the moment.
 
-Repeatable demo is now avaiable
+Repeatable demo is now available by repeating the steps above.
 
 https://github.com/Netlify-Moneytronic/rolandcreate
 
-and the site is available 
+Live site:-
 
 [Visit the live site](https://euphonious-bublanina-23a703.netlify.app)
 
